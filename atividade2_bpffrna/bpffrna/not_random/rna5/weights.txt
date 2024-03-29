@@ -1,0 +1,59 @@
+ Camada 0: Neurônio 0: Bias =========> 0.03298281133174896 
+ Camada 0: Neurônio 1: Bias =========> 0.1037740483880043 
+ Camada 0: Neurônio 0: Weigths ======> 
+ [-0.09001875  0.29379562] 
+ Camada 0: Neurônio 1: Weigths ======> 
+ [-0.6915551  -0.99211407] 
+
+
+ Camada 1: Neurônio 0: Bias =========> 0.05677296221256256 
+ Camada 1: Neurônio 1: Bias =========> 0.0669177919626236 
+ Camada 1: Neurônio 2: Bias =========> -0.12369070947170258 
+ Camada 1: Neurônio 0: Weigths ======> 
+ [-0.18013623  0.41453353 -0.18938795] 
+ Camada 1: Neurônio 1: Weigths ======> 
+ [ 0.8625826  -0.67832214 -0.8953155 ] 
+
+
+ Camada 2: Neurônio 0: Bias =========> 0.016800694167613983 
+ Camada 2: Neurônio 1: Bias =========> -0.11434439569711685 
+ Camada 2: Neurônio 2: Bias =========> 0.09754365682601929 
+ Camada 2: Neurônio 0: Weigths ======> 
+ [ 0.44105315 -0.5343325  -0.6041477 ] 
+ Camada 2: Neurônio 1: Weigths ======> 
+ [-0.1806494  -0.30807778 -0.4339887 ] 
+ Camada 2: Neurônio 2: Weigths ======> 
+ [-0.709134   0.6898768 -0.776721 ] 
+
+
+ Camada 3: Neurônio 0: Bias =========> 0.15372253954410553 
+ Camada 3: Neurônio 1: Bias =========> 0.18032905459403992 
+ Camada 3: Neurônio 2: Bias =========> -0.20314300060272217 
+ Camada 3: Neurônio 0: Weigths ======> 
+ [ 1.1253606 -0.412021  -0.5523235] 
+ Camada 3: Neurônio 1: Weigths ======> 
+ [-0.25218663  0.105463    0.8878363 ] 
+ Camada 3: Neurônio 2: Weigths ======> 
+ [ 0.97576094  0.73422295 -0.88481325] 
+
+
+ Camada 4: Neurônio 0: Bias =========> -0.23849673569202423 
+ Camada 4: Neurônio 1: Bias =========> 0.6184574365615845 
+ Camada 4: Neurônio 2: Bias =========> 0.31406402587890625 
+ Camada 4: Neurônio 0: Weigths ======> 
+ [ 0.08008806  1.0801922  -0.2717735 ] 
+ Camada 4: Neurônio 1: Weigths ======> 
+ [-0.35561863  0.19758648  1.0981758 ] 
+ Camada 4: Neurônio 2: Weigths ======> 
+ [ 0.21674988 -0.25882304 -0.78991115] 
+
+
+ Camada 5: Neurônio 0: Bias =========> 1.0409249067306519 
+ Camada 5: Neurônio 0: Weigths ======> 
+ [-0.09812539] 
+ Camada 5: Neurônio 1: Weigths ======> 
+ [1.6392919] 
+ Camada 5: Neurônio 2: Weigths ======> 
+ [1.0247623] 
+
+

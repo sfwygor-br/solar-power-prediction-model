@@ -1,0 +1,57 @@
+ Camada 0: Neurônio 0: Bias =========> -0.014582068659365177 
+ Camada 0: Neurônio 1: Bias =========> 0.005482186563313007 
+ Camada 0: Neurônio 2: Bias =========> 0.00844109058380127 
+ Camada 0: Neurônio 3: Bias =========> -0.011218050494790077 
+ Camada 0: Neurônio 4: Bias =========> -0.022039752453565598 
+ Camada 0: Neurônio 0: Weigths ======> 
+ [ 0.19777636  0.5253252  -0.7493354  -0.8488531  -0.34606642] 
+ Camada 0: Neurônio 1: Weigths ======> 
+ [ 0.8776308  -0.31323564  0.10611962  0.4691596  -0.16637085] 
+
+
+ Camada 1: Neurônio 0: Bias =========> 0.011524503119289875 
+ Camada 1: Neurônio 1: Bias =========> -0.025146139785647392 
+ Camada 1: Neurônio 0: Weigths ======> 
+ [-0.360277    0.35539225] 
+ Camada 1: Neurônio 1: Weigths ======> 
+ [0.83269143 0.15410402] 
+ Camada 1: Neurônio 2: Weigths ======> 
+ [-0.20482899 -0.39524212] 
+ Camada 1: Neurônio 3: Weigths ======> 
+ [0.36938655 0.63291365] 
+ Camada 1: Neurônio 4: Weigths ======> 
+ [-0.84212637  0.5141555 ] 
+
+
+ Camada 2: Neurônio 0: Bias =========> -0.037533391267061234 
+ Camada 2: Neurônio 1: Bias =========> 0.0 
+ Camada 2: Neurônio 2: Bias =========> 0.0014188075438141823 
+ Camada 2: Neurônio 3: Bias =========> 0.0 
+ Camada 2: Neurônio 4: Bias =========> 0.0 
+ Camada 2: Neurônio 0: Weigths ======> 
+ [-0.35403913 -0.2619475   0.53204465 -0.20455766 -0.5388088 ] 
+ Camada 2: Neurônio 1: Weigths ======> 
+ [ 0.6406285  -0.4950397  -0.22887391 -0.26628602 -0.78914547] 
+
+
+ Camada 3: Neurônio 0: Bias =========> 0.0 
+ Camada 3: Neurônio 1: Bias =========> -0.07439540326595306 
+ Camada 3: Neurônio 0: Weigths ======> 
+ [-0.6427262   0.48310286] 
+ Camada 3: Neurônio 1: Weigths ======> 
+ [ 0.63429713 -0.7270494 ] 
+ Camada 3: Neurônio 2: Weigths ======> 
+ [-0.18830687 -0.06364983] 
+ Camada 3: Neurônio 3: Weigths ======> 
+ [-0.22201276 -0.80803186] 
+ Camada 3: Neurônio 4: Weigths ======> 
+ [-0.839948  -0.6840187] 
+
+
+ Camada 4: Neurônio 0: Bias =========> 5.55192756652832 
+ Camada 4: Neurônio 0: Weigths ======> 
+ [-0.10828507] 
+ Camada 4: Neurônio 1: Weigths ======> 
+ [-0.16626671] 
+
+
